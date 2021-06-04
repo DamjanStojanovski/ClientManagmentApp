@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Clients>
+  <Client>
+    <FirstName>FirstName1</FirstName>
+    <LastName>LastName1</LastName>
+    <EntryDate>2021-02-10</EntryDate>
+    <ClientType>1</ClientType>
+  </Client>
+  <Client>
+    <FirstName>FirstName2</FirstName>
+    <LastName>LastName2</LastName>
+    <EntryDate>2021-03-10</EntryDate>
+    <ClientType>1</ClientType>
+  </Client>
+  <Client>
+    <FirstName>FirstName3</FirstName>
+    <LastName>LastName3</LastName>
+    <EntryDate>2021-04-10</EntryDate>
+    <ClientType>1</ClientType>
+  </Client>
+  <Client>
+    <FirstName>FirstName4</FirstName>
+    <LastName>LastName4</LastName>
+    <EntryDate>2021-05-10</EntryDate>
+    <ClientType>2</ClientType>
+  </Client>
+  <Client>
+    <FirstName>FirstName5</FirstName>
+    <LastName>LastName5</LastName>
+    <EntryDate>2021-01-10</EntryDate>
+    <ClientType>2</ClientType>
+  </Client>
+</Clients>

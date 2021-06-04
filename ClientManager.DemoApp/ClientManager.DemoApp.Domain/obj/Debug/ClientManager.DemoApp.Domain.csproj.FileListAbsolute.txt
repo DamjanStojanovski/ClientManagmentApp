@@ -1,0 +1,32 @@
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.Domain\bin\Debug\ClientManager.DemoApp.Domain.dll.config
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.Domain\bin\Debug\ClientManager.DemoApp.Domain.dll
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.Domain\bin\Debug\ClientManager.DemoApp.Domain.pdb
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.Domain\bin\Debug\EntityFramework.dll
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.Domain\bin\Debug\EntityFramework.xml
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.Domain\obj\Debug\ClientManager.DemoApp.Domain.csprojAssemblyReference.cache
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.Domain\obj\Debug\ClientManager.DemoApp.Domain.Migrations.Init.resources
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.Domain\obj\Debug\ClientManager.DemoApp.Domain.csproj.GenerateResource.cache
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.Domain\obj\Debug\ClientManager.DemoApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.Domain\obj\Debug\ClientManager.DemoApp.Domain.csproj.CopyComplete
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.Domain\obj\Debug\ClientManager.DemoApp.Domain.dll
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.Domain\obj\Debug\ClientManager.DemoApp.Domain.pdb
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.Domain\bin\Debug\ClientManager.DemoApp.Domain.dll.config
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.Domain\bin\Debug\ClientManager.DemoApp.Domain.dll
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.Domain\bin\Debug\ClientManager.DemoApp.Domain.pdb
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.Domain\obj\Debug\ClientManager.DemoApp.Domain.csprojAssemblyReference.cache
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.Domain\obj\Debug\ClientManager.DemoApp.Domain.Migrations.Init.resources
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.Domain\obj\Debug\ClientManager.DemoApp.Domain.csproj.GenerateResource.cache
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.Domain\obj\Debug\ClientManager.DemoApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.Domain\obj\Debug\ClientManager.DemoApp.Domain.csproj.CopyComplete
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.Domain\obj\Debug\ClientManager.DemoApp.Domain.dll
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.Domain\obj\Debug\ClientManager.DemoApp.Domain.pdb

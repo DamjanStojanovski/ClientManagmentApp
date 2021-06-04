@@ -1,0 +1,76 @@
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\ClientManager.DemoApp.WPF.exe.config
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\ClientManager.DemoApp.WPF.exe
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\ClientManager.DemoApp.WPF.pdb
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\Autofac.dll
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\ClientManager.DemoApp.Domain.dll
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\EntityFramework.dll
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\Prism.dll
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\ClientManager.DemoApp.Domain.pdb
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\ClientManager.DemoApp.Domain.dll.config
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\Autofac.pdb
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\Autofac.xml
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\EntityFramework.xml
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\Prism.pdb
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\Prism.xml
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\obj\Debug\ClientManager.DemoApp.WPF.csprojAssemblyReference.cache
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\obj\Debug\App.baml
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\obj\Debug\MainWindow.g.cs
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\obj\Debug\App.g.cs
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\obj\Debug\ClientManager.DemoApp.WPF_MarkupCompile.cache
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\obj\Debug\ClientManager.DemoApp.WPF_MarkupCompile.lref
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\obj\Debug\MainWindow.baml
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\obj\Debug\ClientManager.DemoApp.WPF.g.resources
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\obj\Debug\ClientManager.DemoApp.WPF.Properties.Resources.resources
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\obj\Debug\ClientManager.DemoApp.WPF.csproj.GenerateResource.cache
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\obj\Debug\ClientManager.DemoApp.WPF.csproj.CoreCompileInputs.cache
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\obj\Debug\ClientManager.DemoApp.WPF.csproj.CopyComplete
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\obj\Debug\ClientManager.DemoApp.WPF.exe
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManager.DemoApp.WPF\obj\Debug\ClientManager.DemoApp.WPF.pdb
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\ClientManager.DemoApp.WPF.exe.config
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\ClientManager.DemoApp.WPF.exe
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\ClientManager.DemoApp.WPF.pdb
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\Autofac.dll
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\ClientManager.DemoApp.Domain.dll
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\EntityFramework.dll
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\Prism.dll
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\ClientManager.DemoApp.Domain.pdb
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\ClientManager.DemoApp.Domain.dll.config
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\Autofac.pdb
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\Autofac.xml
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\EntityFramework.xml
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\Prism.pdb
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\Prism.xml
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\obj\Debug\ClientManager.DemoApp.WPF.csprojAssemblyReference.cache
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\obj\Debug\App.baml
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\obj\Debug\App.g.cs
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\obj\Debug\ClientManager.DemoApp.WPF_MarkupCompile.cache
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\obj\Debug\ClientManager.DemoApp.WPF_MarkupCompile.lref
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\obj\Debug\MainWindow.baml
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\obj\Debug\ClientManager.DemoApp.WPF.g.resources
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\obj\Debug\ClientManager.DemoApp.WPF.Properties.Resources.resources
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\obj\Debug\ClientManager.DemoApp.WPF.csproj.GenerateResource.cache
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\obj\Debug\ClientManager.DemoApp.WPF.csproj.CoreCompileInputs.cache
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\obj\Debug\ClientManager.DemoApp.WPF.csproj.CopyComplete
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\obj\Debug\ClientManager.DemoApp.WPF.exe
+C:\Users\Damjan Stojanovski\Desktop\ClientManager.DemoApp\ClientManager.DemoApp.WPF\obj\Debug\ClientManager.DemoApp.WPF.pdb

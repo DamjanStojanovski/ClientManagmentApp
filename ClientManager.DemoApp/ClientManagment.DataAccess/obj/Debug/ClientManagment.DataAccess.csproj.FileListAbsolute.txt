@@ -1,0 +1,16 @@
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManagment.DataAccess\bin\Debug\ClientManagment.DataAccess.dll
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManagment.DataAccess\bin\Debug\ClientManagment.DataAccess.pdb
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManagment.DataAccess\bin\Debug\ClientManager.DemoApp.Domain.dll
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManagment.DataAccess\bin\Debug\ClientManager.DemoApp.Domain.pdb
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManagment.DataAccess\obj\Debug\ClientManagment.DataAccess.csprojAssemblyReference.cache
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManagment.DataAccess\obj\Debug\ClientManagment.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManagment.DataAccess\obj\Debug\ClientManagment.DataAccess.csproj.CopyComplete
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManagment.DataAccess\obj\Debug\ClientManagment.DataAccess.dll
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManagment.DataAccess\obj\Debug\ClientManagment.DataAccess.pdb
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManagment.DataAccess\bin\Debug\ClientManagment.DataAccess.dll.config
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManagment.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManagment.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManagment.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManagment.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManagment.DataAccess\obj\Debug\ClientManagment.DataAccess.Migrations.Init.resources
+C:\Users\HASELT-Damjan.S\source\repos\ClientManager.DemoApp\ClientManagment.DataAccess\obj\Debug\ClientManagment.DataAccess.csproj.GenerateResource.cache
